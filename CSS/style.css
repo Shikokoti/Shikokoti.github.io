@@ -1,0 +1,14 @@
+body {
+    background-color: #ff00ff;
+
+}
+
+input {
+    border-radius: 5px;
+}
+
+#nav {
+    margin: auto;
+    width: 56%;
+    height: 20%;
+}
